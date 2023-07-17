@@ -154,16 +154,7 @@ export default function SettingsPage() {
                   <DialogTitle>{t("licenses")}</DialogTitle>
                 </DialogHeader>
                 <p>
-                  NextJS - MIT License - © 2023 Vercel, Inc.
-                  <br></br>
-                  RadixUI - MIT License - © 2022 WorkOS
-                  <br></br>
-                  shadcn/ui - MIT License - © 2023 shadcn
-                  <br></br>
-                  Fluent System Icons - MIT License - © 2020 Microsoft
-                  Corporation
-                  <br></br>
-                  Passliss - MIT License - © 2023 Léo Corporation
+                  Iftiin-Pass - MIT License - © 2023 IFTIIN Technologies
                 </p>
                 <DialogFooter>
                   <DialogClose>
