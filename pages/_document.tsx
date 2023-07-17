@@ -15,24 +15,24 @@ export default function Document() {
           content="#000014"
           media="(prefers-color-scheme: dark)"
         />
-        <link rel="apple-touch-icon" href="/images/icon-512x512.png"></link>
+        <link rel="apple-touch-icon" href="/images/ifpass.png"></link>
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content="/images/social.png" />
         <meta
           name="twitter:description"
-          content="Passliss is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
+          content="Iftiin-Pass is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
         />
-        <meta name="twitter:title" content="Passliss" />
+        <meta name="twitter:title" content="Iftiin-Pass" />
         <meta
           property="og:description"
-          content="Passliss is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
+          content="Iftiin-Pass is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
         />
         <meta property="og:image" content="/images/social.png" />
         <meta property="og:title" content="Passliss" />
 
         <meta
           name="description"
-          content="Passliss is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
+          content="Iftiin-Pass is a web application that allows you to generate secure passwords, test the strength of exiting ones and more."
         />
       </Head>
       <body className="min-h-screen font-sans text-slate-900 antialiased dark:text-slate-50">
