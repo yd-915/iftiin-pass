@@ -54,10 +54,10 @@ export default function HomePage() {
   return (
     <Layout>
       <Head>
-        <title>Passliss</title>
+        <title>Iftiin-Pass</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/smol.ico" />
       </Head>
       <PageContent page="home">
         <div className="mb-2 flex items-center space-x-2">
