@@ -151,10 +151,10 @@ export default function SettingsPage() {
               </DialogTrigger>
               <DialogContent className="sm:max-w-[425px]">
                 <DialogHeader>
-                  <DialogTitle>{t("licenses")}</DialogTitle>
+                  <DialogTitle>{t("Trademark")}</DialogTitle>
                 </DialogHeader>
                 <p>
-                  Iftiin-Pass - MIT License - © 2023 IFTIIN Technologies
+                  Iftiin-Pass © 2023 IFTIIN Technologies
                 </p>
                 <DialogFooter>
                   <DialogClose>
