@@ -41,7 +41,7 @@ body {
 }
 
 .dark body {
-  background: url(../public/dark.png);
+  background: url(../public/abstract.png);
   background-size: cover;
 }
 .h-scroll {
