@@ -148,6 +148,9 @@ export default function SettingsPage() {
                 <Button size="nav" variant="outline" className="mt-1 font-bold">
                   {t("see-licenses")}
                 </Button>
+                <Button size="nav" variant="outline" className="mt-1 font-bold">
+                  {t("see-licenses")}
+                </Button>
               </DialogTrigger>
               <DialogContent className="sm:max-w-[425px]">
                 <DialogHeader>
