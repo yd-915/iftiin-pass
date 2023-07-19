@@ -39,21 +39,7 @@ export default function IndexPage() {
             {t("launch")}
           </Link>
         </div>
-        <div className="flex items-center space-x-2">
-          <InstallButton />
-
-          <Link
-            href="https://twitter.com/home"
-            className={
-              buttonVariants({
-                variant: "outline",
-                size: "lg",
-              }) + " m-2 text-lg font-bold"
-            }
-          >
-            {t("PRO")}
-          </Link>
-        </div>
+       
       </section>
     </Layout>
   )
